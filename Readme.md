@@ -4,6 +4,7 @@ Made a Quick game of bricks and ball using vanilla javascript made for submissio
 
 spend almost 1 hour debugging because, I misspelled x with X ;)
 
+# [live demo](https://kmj-007.github.io/brickGames/)
 
 ## To-do
 
